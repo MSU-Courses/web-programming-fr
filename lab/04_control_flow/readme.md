@@ -134,4 +134,4 @@ for ($i = 0; $i < count($files); $i++) {
 
 Приблизительный результат:
 
-<img src="../../.images/lab4_example.png" width="600" />
+<img src="../../.images/lab4_example.png" width="450" />
